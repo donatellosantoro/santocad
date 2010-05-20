@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Deploy
+
+= Getting Started =
+
+First you need to Download the SantoCAD distribution; or you could grab the Source and try Building it yourself.
+
+= Running Example =
+
+SantoCAD's binary release comes with some examples. You can load it using 'Load Project' option and then select one of this:
+  * *room_color*: \Samples\room\room_color.txt
+    Render a simple room using only glColor
+
+  * *room_color*: \Samples\room\room_material.txt
+    Render a simple room using material and lighting
+
+  * *room_color*: \Samples\room\room_texture.txt
+    Render a simple room using texture
