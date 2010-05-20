@@ -14,4 +14,4 @@ SantoCAD's binary release comes with some examples. You can load it using 'Load 
 || *room_material*: <br> _\Samples\room\room_material.txt_ <p> Render a simple room using material and lighting</p>|| [http://img685.imageshack.us/img685/865/roommaterial.jpg http://img685.imageshack.us/img685/865/roommaterial.th.jpg] ||
 || *room_texture*: <br> _\Samples\room\room_texture.txt_ <p> Render a simple room using texture</p>|| [http://img29.imageshack.us/img29/4353/roomtexture.jpg http://img29.imageshack.us/img29/4353/roomtexture.th.jpg] ||
 
-|| *Solar System*: <br> _\Samples\sistema_solare.txt_ <p>A very inaccurate solar system :D</p>|| [http://img405.imageshack.us/img405/7633/solar.jpg http://img405.imageshack.us/img405/7633/solar.th.jpg] ||
+|| *Solar System*: <br> _\Samples\sistema_solare.txt_ <p>A ~~very inaccurate ;)~~ solar system using texture and lighting</p>|| [http://img405.imageshack.us/img405/7633/solar.jpg http://img405.imageshack.us/img405/7633/solar.th.jpg] ||
