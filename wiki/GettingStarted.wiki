@@ -10,7 +10,7 @@ First you need to Download the SantoCAD distribution; or you could grab the Sour
 SantoCAD's binary release comes with some examples. You can load it using 'Load Project' option and then select one of this:
   * *room_color*: \Samples\room\room_color.txt
     Render a simple room using only glColor
-[http://img203.imageshack.us/i/roomcolor.jpg http://img203.imageshack.us/img203/6189/roomcolor.th.jpg]
+[http://img203.imageshack.us/i/roomcolor.jpg http://img203.imageshack.us/img203/6189/roomcolor.jpg]
 
   * *room_color*: \Samples\room\room_material.txt
     Render a simple room using material and lighting
