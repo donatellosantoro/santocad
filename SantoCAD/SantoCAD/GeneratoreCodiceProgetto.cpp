@@ -76,6 +76,9 @@ void GeneratoreCodiceProgetto::genera(string folder, string nomeProgetto){
 	for(int i=0;i<110;i++){
 		Utilita::copiaFile(initFolder + include_file[i], projectFolder + include_file[i]);
 	}
+    
+    _mkdir(Utilita::stringToChar(projectFolder + "license\\"));
+    Utilita::copiaFile(initFolder + "license\\license.txt", projectFolder + "license\\license.txt");
 
 	string stringSln = Utilita::caricaFile(Utilita::stringToChar(resFolder + "Exported.sln"));
 	Utilita::sostituisciStringaRicorsiva(&stringSln,PLACEHOLDER_NOME_PROGETTO,nomeProgetto);
